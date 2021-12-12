@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      NFT SHOWCASE
+      NFT SHOWCASE 2
     </div>
   );
 }
